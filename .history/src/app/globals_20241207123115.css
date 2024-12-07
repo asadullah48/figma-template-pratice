@@ -4,7 +4,7 @@
 
 @layer utilities {
   .wrapper{
-    @apply max-w-7xl mx-4 md:mx-8 lg:mx-auto
+    @apply max-w-7xl mx-4 md:
   }
 }
 
